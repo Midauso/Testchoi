@@ -1,0 +1,20 @@
+{
+  "name": "thuhangchutchoi",
+  "description": "khong biet lam gi",
+  "main": "index.js",
+  "authors": [
+    "midauso"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Midauso/Testchoi",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
