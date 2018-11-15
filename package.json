@@ -1,0 +1,19 @@
+{
+  "name": "thuhangchutchoi",
+  "version": "1.0.0",
+  "description": "khong biet lam gi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Midauso/Testchoi.git"
+  },
+  "author": "midauso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Midauso/Testchoi/issues"
+  },
+  "homepage": "https://github.com/Midauso/Testchoi#readme"
+}
