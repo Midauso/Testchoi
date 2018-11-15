@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Midauso/Testchoi/issues"
   },
-  "homepage": "https://github.com/Midauso/Testchoi#readme"
+  "homepage": "https://github.com/Midauso/Testchoi#readme",
+  "dependencies": {
+    "sass": "^1.15.0"
+  }
 }
